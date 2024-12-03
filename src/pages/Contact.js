@@ -10,7 +10,7 @@ function Contact() {
     <section className="contact">
       <h2>Contáctame</h2> {/* Corrected typo: Contáctame (Spanish for "Contact Me") */}
       <p>Puedes contactarme a través de mi correo electrónico:</p>
-      <p>everesli89@gmail.com</p>
+      <p>evere@gmail.com</p>
       <p>Sigueme en mis redes sociales:</p>
       <div className="social-links">
         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
